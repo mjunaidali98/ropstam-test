@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "label": "Honda City",
+        "category":"Sedan",
+        "model": "1.3 M",
+        "make_year": "2020",
+        "color": "golden brown",
+        "registration_no": "ABC-123"
+    }
+]
